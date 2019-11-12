@@ -57,7 +57,7 @@ Then, just change the setting in the window that pops up until you like what you
 ![Setting](./Screenshots/threshold2.png)
 ![Result](./Screenshots/threshold3.png)
 
-You can export this to Illustrator now!
+You can export this to Illustrator now! You can image trace it and edit any parts of it if you want, or run it as-is.
 
 Edge-detection
 ------
@@ -73,6 +73,8 @@ Now just do the Threshold thing, as explained in the above guide. I've included 
 ![Gonna](./Screenshots/edge3.png)
 ![Give](./Screenshots/edge4.png)
 ![You Up](./Screenshots/edge5.png)
+
+While you can try to image-trace this in Illustrator, you probably won't get great results. If possible, just print it as-is.
 
 Exporting
 ------
