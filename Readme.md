@@ -5,9 +5,9 @@ This is a guide for taking a picture in full color (Such as from a camera, or an
 
 This guide will cover three main methods for preparing images using Photoshop, which is installed by default on all Hub computers. If you can't use Photoshop, [GIMP](https://www.gimp.org/) is a free, open-source alternative. The methods this guide will cover are:
 
-..*Dithering by way of changing modes to Indexed
-..*Using the Threshold tool to convert to only black and white.
-..*Using the edge-detection filter to get outlines, then using Threshold
+*Dithering by way of changing modes to Indexed
+*Using the Threshold tool to convert to only black and white.
+*Using the edge-detection filter to get outlines, then using Threshold
 
 The three each have their own advantages and disadvantages. The first one (Dithering) can effectively generate a fading effect more effectively than the laser's built-in software, but requires a lot of trial-and-error for figuring out the right power. The second (Thresholding) can easily generate a very clean engraving with minimal effort. The third (Edge-detection) is good for detailed pictures where the first two don't show all the details.
 
