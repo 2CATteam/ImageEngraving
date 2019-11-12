@@ -52,8 +52,8 @@ This is a very simple operation. The first step is to select the Threshold tool.
 
 Then, just change the setting in the window that pops up until you like what you see. Note that the preview looks a fair bit different than the final result.
 
-![Setting](./Screenshots/threshold2)
-![Result](./Screenshots/threshold3)
+![Setting](./Screenshots/threshold2.png)
+![Result](./Screenshots/threshold3.png)
 
 You can export this to Illustrator now!
 
