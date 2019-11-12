@@ -24,3 +24,61 @@ The first step is to crank the contrast (and brightness, if you want). Like, rea
 ![Getting there](./Screenshots/contrast1.png)
 ![Being there](./Screenshots/contrast2.png)
 
+Once you've gotten that done, you change the mode to Indexed.
+
+![Indexed](./Screenshots/indexed.png)
+
+Change the palette to "Custom", then change the number of colors to 3 (Black, white, and transparency).
+
+![Custom palette](./Screenshots/indexed2.png)
+![Do you guys read the alt text?](./Screenshots/indexed4.png)
+
+Now, this is where the magic happens: Set the Dither option to anything other than None, and set the Amount to whatever you want (I like about 20%. Higher values tend to lower overall contrast, but can be good for some images).
+
+![Dither mode](./Screenshots/indexed4.png)
+
+When you hit OK, the image may suddenly change and look really ugly - don't worry! This is just the renderer being weird. If you zoom in, you can see that it looks exactly as we expect!
+
+![Zoomed out](./Screenshots/indexed5.png)
+![Zoomed in](./Screenshots/indexed6.png)
+
+The image is ready to export! Note that, when you put it in Illustrator, you SHOULD NOT do an Image Trace. This will be slow and ruin the effect. When you print it, you will need to lower the power significantly. For engraving this image on a sheet of Maple plywood, I used 6.9% power and 69% speed (For obvious reasons) and it turned out great!
+
+Thresholding
+------
+This is a very simple operation. The first step is to select the Threshold tool.
+
+![Thresholding](./Screenshots/threshold1.png)
+
+Then, just change the setting in the window that pops up until you like what you see. Note that the preview looks a fair bit different than the final result.
+
+![Setting](./Screenshots/threshold2)
+![Result](./Screenshots/threshold3)
+
+You can export this to Illustrator now!
+
+Edge-detection
+------
+Throw an edge-detection filter on there!
+
+![Filter](./Screenshots/edge1.png)
+
+Wow!
+
+Now just do the Threshold thing, as explained in the above guide. I've included a bunch of pictures below, just in case.
+
+![Never](./Screenshots/edge2.png)
+![Gonna](./Screenshots/edge3.png)
+![Give](./Screenshots/edge4.png)
+![You Up](./Screenshots/edge5.png)
+
+Exporting
+------
+Just use the quick export option for this. It works.
+
+![Exporting](./Screenshots/export.png)
+
+If you can't figure out the rest, this guide is not for you.
+
+-------------
+Hopefully this has been helpful! If you have any questions, let me know and I'll try to answer them!
